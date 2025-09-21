@@ -53,4 +53,14 @@ section .pictorial-news-section{
 	border-radius: 5px;
 }
 
+.image-section{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.image-section img {
+	margin: 5px;
+}
 
